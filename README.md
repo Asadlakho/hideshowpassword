@@ -24,3 +24,6 @@ Fully responsive design for all devices
 .Font Awesome (for eye icons)
 
 .JavaScript (for show/hide functionality)
+
+🚀 Live Demo :
+🔗 https://asadlakho.github.io/hideshowpassword/
